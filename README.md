@@ -17,4 +17,3 @@ Clone the repository and run the installer:
 ```bash
 git clone https://github.com/graph90/i2p-ubuntu-quicksetup.git
 cd i2p-ubuntu-quicksetup
-sudo bash install-i2p.sh
