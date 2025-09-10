@@ -41,9 +41,6 @@ To start I2P manually, open a terminal and run:
 To stop it:
     i2prouter stop
 
-To have I2P start automatically at boot, run:
-    sudo dpkg-reconfigure i2p
-
 Router console:
     $ROUTER_URL
 
