@@ -55,7 +55,7 @@ You may need to reboot for all services to initialize cleanly.
 EOF
     chown "$USER_NAME":"$USER_NAME" "$INSTRUCTIONS_FILE"
 }
-echo "=== I2P Installer ==="
+echo "I2P Quicksetup Installer — Easy one-command setup for Ubuntu"
 check_root
 add_ppa
 update_packages
